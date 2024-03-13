@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22" />
 </div>
 
-<p align="center">
+/*<p align="center">
   <a href="https://discord.com/users/153490292081819648">
     <img src="https://lanyard-profile-readme.vercel.app/api/153490292081819648?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=ROOT" />
   </a>
-</p>
+</p>*/
 
 <div style="text-align: center;">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pofi-abel&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
