@@ -7,12 +7,12 @@
 </div>
 
 <p align="center">
+ <img src="https://img.shields.io/badge/go-0d1117?style=for-the-badge&logo=go&logoColor=blue" />
   <img src="https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow" />
  <img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=blue" />
  <img src="https://img.shields.io/badge/nodejs-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=green" />
  <img src="https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=ts-node&logoColor=blue" />
  <img src="https://img.shields.io/badge/flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=blue" />
- <img src="https://img.shields.io/badge/go-0d1117?style=for-the-badge&logo=go&logoColor=blue" />
 <img src="https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" />
 </p>
