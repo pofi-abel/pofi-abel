@@ -13,18 +13,15 @@
 <p align="center">
 <img src="https://img.shields.io/badge/go-0d1117?style=for-the-badge&logo=go&logoColor=blue" alt="Go" />
 <img src="https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript" />
-<img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=blue" alt="React" />
-<img src="https://img.shields.io/badge/nodejs-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=green" alt="NodeJS" />
 <img src="https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=ts-node&logoColor=blue" alt="TypeScript" />
 <img src="https://img.shields.io/badge/flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=blue" alt="Flutter" />
-<img src="https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 <img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSQL" />
 </p>
 <br />
 
 <p align="center">
 <img width="38%" src="https://github-readme-stats-cnye.vercel.app/api?username=pofi-abel&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" />&nbsp;
-<img width="38%" src="https://github-readme-stats-cnye.vercel.app/api/top-langs/?username=pofi-abel&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117&count_private=true" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-cnye.vercel.app/api/top-langs/?username=pofi-abel&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117&count_private=true" alt="Top Languages" />
 </p>
 <br />
 
