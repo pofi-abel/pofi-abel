@@ -11,9 +11,9 @@
 <br />
 
 <p align="center">
-<img src="https://img.shields.io/badge/go-0d1117?style=for-the-badge&logo=go&logoColor=blue" alt="Go" />
 <img src="https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript" />
 <img src="https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=ts-node&logoColor=blue" alt="TypeScript" />
+<img src="https://img.shields.io/badge/go-0d1117?style=for-the-badge&logo=go&logoColor=blue" alt="Go" />
 <img src="https://img.shields.io/badge/flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=blue" alt="Flutter" />
 <img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSQL" />
 </p>
